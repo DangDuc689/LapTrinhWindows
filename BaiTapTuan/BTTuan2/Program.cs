@@ -10,6 +10,7 @@ namespace BTTuan2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
     }
 }
