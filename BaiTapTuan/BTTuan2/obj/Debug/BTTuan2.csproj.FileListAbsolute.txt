@@ -1,0 +1,8 @@
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\bin\Debug\BTTuan2.exe.config
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\bin\Debug\BTTuan2.exe
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\bin\Debug\BTTuan2.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\obj\Debug\BTTuan2.csproj.AssemblyReference.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\obj\Debug\BTTuan2.csproj.CoreCompileInputs.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\obj\Debug\BTTuan2.exe
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\obj\Debug\BTTuan2.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan2\obj\Debug\BTTuan2.exe.config
