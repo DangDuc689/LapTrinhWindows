@@ -47,7 +47,7 @@ namespace BTTuan2
             foreach (var s in oldest)
                 Console.WriteLine($"ID: {s.Id} - HoTen: {s.Name} - Tuoi: {s.Age}");
 
-            Console.WriteLine("\nDanh sach sap xep theo tuoi tang dan:");
+            Console.WriteLine("\nDanh sach sap xep theo tuoi tang dan: ");
             var sorted = students.OrderBy(s => s.Age);
             foreach (var s in sorted)
                 Console.WriteLine($"ID: {s.Id} - HoTen: {s.Name} - Tuoi: {s.Age}");
