@@ -39,7 +39,6 @@ namespace BTTuan3
 
         private void btnAddName_Click(object sender, EventArgs e)
         {
-            // Kiểm tra textbox không trống
             if (string.IsNullOrWhiteSpace(txtLastName.Text) ||
                 string.IsNullOrWhiteSpace(txtFirstName.Text) ||
                 string.IsNullOrWhiteSpace(txtPhone.Text))
@@ -48,15 +47,12 @@ namespace BTTuan3
                 return;
             }
 
-            // Tạo 1 dòng mới (ListViewItem)
-            ListViewItem item = new ListViewItem(txtLastName.Text); // Cột 1: Last Name
-            item.SubItems.Add(txtFirstName.Text); // Cột 2: First Name
-            item.SubItems.Add(txtPhone.Text);     // Cột 3: Phone
+            ListViewItem item = new ListViewItem(txtLastName.Text); 
+            item.SubItems.Add(txtFirstName.Text); 
+            item.SubItems.Add(txtPhone.Text);     
 
-            // Thêm vào ListView
             lstThongTin.Items.Add(item);
 
-            // Xóa dữ liệu sau khi thêm
             txtLastName.Clear();
             txtFirstName.Clear();
             txtPhone.Clear();
