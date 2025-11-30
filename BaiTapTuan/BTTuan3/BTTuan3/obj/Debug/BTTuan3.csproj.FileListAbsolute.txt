@@ -1,0 +1,10 @@
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\bin\Debug\BTTuan3.exe.config
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\bin\Debug\BTTuan3.exe
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\bin\Debug\BTTuan3.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\obj\Debug\BTTuan3.csproj.AssemblyReference.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\obj\Debug\BTTuan3.Form1.resources
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\obj\Debug\BTTuan3.Properties.Resources.resources
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\obj\Debug\BTTuan3.csproj.GenerateResource.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\obj\Debug\BTTuan3.csproj.CoreCompileInputs.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\obj\Debug\BTTuan3.exe
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan3\BTTuan3\obj\Debug\BTTuan3.pdb
