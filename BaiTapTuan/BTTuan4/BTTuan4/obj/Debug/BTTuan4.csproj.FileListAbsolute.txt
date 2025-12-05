@@ -1,0 +1,10 @@
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\bin\Debug\BTTuan4.exe.config
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\bin\Debug\BTTuan4.exe
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\bin\Debug\BTTuan4.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\obj\Debug\BTTuan4.csproj.AssemblyReference.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\obj\Debug\BTTuan4.Properties.Resources.resources
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\obj\Debug\BTTuan4.csproj.GenerateResource.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\obj\Debug\BTTuan4.csproj.CoreCompileInputs.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\obj\Debug\BTTuan4.exe
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\obj\Debug\BTTuan4.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan4\BTTuan4\obj\Debug\BTTuan4.frmQuanLySinhVien.resources
