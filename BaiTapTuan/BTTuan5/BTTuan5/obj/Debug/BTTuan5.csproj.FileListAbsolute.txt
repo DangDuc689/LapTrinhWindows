@@ -1,0 +1,15 @@
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.csproj.AssemblyReference.cache
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.Properties.Resources.resources
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.csproj.GenerateResource.cache
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.csproj.CoreCompileInputs.cache
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.frmQuanLySinhVien.resources
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\bin\Debug\BTTuan5.exe.config
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\bin\Debug\BTTuan5.exe
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\bin\Debug\BTTuan5.pdb
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\bin\Debug\EntityFramework.dll
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\bin\Debug\EntityFramework.SqlServer.dll
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\bin\Debug\EntityFramework.xml
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\bin\Debug\EntityFramework.SqlServer.xml
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.csproj.Up2Date
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.exe
+D:\TUF F15\Source\repos\BTTuan5\BTTuan5\obj\Debug\BTTuan5.pdb
