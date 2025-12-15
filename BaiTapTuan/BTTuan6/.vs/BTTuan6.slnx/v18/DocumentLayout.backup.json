@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|solutionrelative:gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDDEF04-49E3-424A-982F-9C45A901CC2A}|BUS\\BUS.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDDEF04-49E3-424A-982F-9C45A901CC2A}|BUS\\BUS.csproj|solutionrelative:bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDDEF04-49E3-424A-982F-9C45A901CC2A}|BUS\\BUS.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDDEF04-49E3-424A-982F-9C45A901CC2A}|BUS\\BUS.csproj|solutionrelative:bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDDEF04-49E3-424A-982F-9C45A901CC2A}|BUS\\BUS.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDDEF04-49E3-424A-982F-9C45A901CC2A}|BUS\\BUS.csproj|solutionrelative:bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|solutionrelative:gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\gui\\frmstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9CE2B6-6688-460F-83F0-BE8D26F0702C}|GUI\\GUI.csproj|solutionrelative:gui\\frmstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB200593-7FD2-42A7-84D7-2F3FDABEDFCC}|DAL\\DAL.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\baitaptuan\\bttuan6\\dal\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB200593-7FD2-42A7-84D7-2F3FDABEDFCC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmStudent.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\frmStudent.cs",
+              "RelativeDocumentMoniker": "GUI\\frmStudent.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\frmStudent.cs",
+              "RelativeToolTip": "GUI\\frmStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:05:22.116Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStudent.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\frmStudent.cs",
+              "RelativeDocumentMoniker": "GUI\\frmStudent.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\frmStudent.cs [Design]",
+              "RelativeToolTip": "GUI\\frmStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:05:21.801Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmStudent.Designer.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\frmStudent.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\frmStudent.Designer.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\frmStudent.Designer.cs",
+              "RelativeToolTip": "GUI\\frmStudent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:13:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\BUS\\StudentService.cs",
+              "RelativeDocumentMoniker": "BUS\\StudentService.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\BUS\\StudentService.cs",
+              "RelativeToolTip": "BUS\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:12:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MajorService.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\BUS\\MajorService.cs",
+              "RelativeDocumentMoniker": "BUS\\MajorService.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\BUS\\MajorService.cs",
+              "RelativeToolTip": "BUS\\MajorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:12:11.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\BUS\\FacultyService.cs",
+              "RelativeDocumentMoniker": "BUS\\FacultyService.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\BUS\\FacultyService.cs",
+              "RelativeToolTip": "BUS\\FacultyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:11:12.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\DAL\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\DAL\\Models\\StudentModel.cs",
+              "RelativeToolTip": "DAL\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:10:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\BaiTapTuan\\BTTuan6\\GUI\\Program.cs*",
+              "RelativeToolTip": "GUI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:05:58.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

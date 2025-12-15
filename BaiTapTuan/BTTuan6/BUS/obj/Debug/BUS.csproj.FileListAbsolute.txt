@@ -1,0 +1,15 @@
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\BUS.dll.config
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\BUS.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\BUS.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\DAL.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\EntityFramework.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\DAL.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\DAL.dll.config
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\EntityFramework.xml
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\obj\Debug\BUS.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\BTTuan6\BUS\obj\Debug\BUS.pdb
