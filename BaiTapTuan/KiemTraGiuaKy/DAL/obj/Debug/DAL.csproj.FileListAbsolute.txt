@@ -1,0 +1,12 @@
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\bin\Debug\DAL.dll.config
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\bin\Debug\DAL.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\bin\Debug\DAL.pdb
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\bin\Debug\EntityFramework.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\bin\Debug\EntityFramework.xml
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\obj\Debug\DAL.dll
+C:\code\Github\LapTrinhTrenMoiTruongWindows\BaiTapTuan\KiemTraGiuaKy\DAL\obj\Debug\DAL.pdb
