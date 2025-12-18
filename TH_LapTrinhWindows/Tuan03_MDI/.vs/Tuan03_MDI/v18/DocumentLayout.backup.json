@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9519CB73-B946-4BD3-8E85-618CDE2D4BF0}|Bai01_Media\\Bai01_Media.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\th_laptrinhwindows\\tuan03_mdi\\bai01_media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9519CB73-B946-4BD3-8E85-618CDE2D4BF0}|Bai01_Media\\Bai01_Media.csproj|solutionrelative:bai01_media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627D0649-FB25-444F-9666-A724F9145E6C}|Bai02\\Bai02.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\bai02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627D0649-FB25-444F-9666-A724F9145E6C}|Bai02\\Bai02.csproj|solutionrelative:bai02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|solutionrelative:bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|solutionrelative:bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627D0649-FB25-444F-9666-A724F9145E6C}|Bai02\\Bai02.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\bai02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{627D0649-FB25-444F-9666-A724F9145E6C}|Bai02\\Bai02.csproj|solutionrelative:bai02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\bai03\\themsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|solutionrelative:bai03\\themsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\bai03\\themsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8AB09B0-203A-4DAC-9550-E32C87EAA468}|Bai03\\Bai03.csproj|solutionrelative:bai03\\themsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai01_Media\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai01_Media\\Form1.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai01_Media\\Form1.cs",
+              "RelativeToolTip": "Bai01_Media\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:28:20.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai02\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai02\\Form1.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai02\\Form1.cs",
+              "RelativeToolTip": "Bai02\\Form1.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAKsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:00:43.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai02\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai02\\Form1.cs",
+              "ToolTip": "D:\\Users\\Ki_Hien_Tai\\LTWindows\\Tuan03_MDI-20251218T164643Z-1-001\\Tuan03_MDI\\Bai02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:00:38.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai03\\Form1.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai03\\Form1.cs",
+              "RelativeToolTip": "Bai03\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:56:27.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemSV.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai03\\ThemSV.cs",
+              "RelativeDocumentMoniker": "Bai03\\ThemSV.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai03\\ThemSV.cs",
+              "RelativeToolTip": "Bai03\\ThemSV.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-18T17:56:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemSV.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai03\\ThemSV.cs",
+              "RelativeDocumentMoniker": "Bai03\\ThemSV.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Tuan03_MDI\\Bai03\\ThemSV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Administrator\\source\\repos\\Tuan03_MDI\\Bai03\\ThemSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-18T17:56:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan03_MDI\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai03\\Form1.cs",
+              "ToolTip": "D:\\Users\\Ki_Hien_Tai\\LTWindows\\Tuan03_MDI-20251218T164643Z-1-001\\Tuan03_MDI\\Bai03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:56:27.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
