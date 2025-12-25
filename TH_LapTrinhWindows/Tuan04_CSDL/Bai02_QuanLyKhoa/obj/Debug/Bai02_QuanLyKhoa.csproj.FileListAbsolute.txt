@@ -1,0 +1,16 @@
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.csproj.AssemblyReference.cache
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.frmQuanLyKhoa.resources
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.frmQuanLySinhVien.resources
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.Properties.Resources.resources
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.csproj.GenerateResource.cache
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.csproj.CoreCompileInputs.cache
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\bin\Debug\Bai02_QuanLyKhoa.exe.config
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\bin\Debug\Bai02_QuanLyKhoa.exe
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\bin\Debug\Bai02_QuanLyKhoa.pdb
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\bin\Debug\EntityFramework.dll
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\bin\Debug\EntityFramework.xml
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_Qu.89109668.Up2Date
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.exe
+D:\Users\Ki_Hien_Tai\LTWindows\Tuan04_CSDL-20251225T125810Z-1-001\Tuan04_CSDL\Bai02_QuanLyKhoa\obj\Debug\Bai02_QuanLyKhoa.pdb

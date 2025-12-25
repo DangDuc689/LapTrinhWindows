@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|c:\\code\\github\\laptrinhtrenmoitruongwindows\\th_laptrinhwindows\\tuan04_csdl\\bai03_timkiemsinhvien\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\frmquanlykhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmquanlykhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai03_timkiemsinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D41B4-0BE9-4A0D-B626-8CE9EDBADD2F}|Bai03_TimKiemSinhVien\\Bai03_TimKiemSinhVien.csproj|solutionrelative:bai03_timkiemsinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\frmquanlykhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\frmquanlykhoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\bai02_quanlykhoa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{443E1ECE-B224-46EA-8808-264BD5D4DE2C}|Bai02_QuanLyKhoa\\Bai02_QuanLyKhoa.csproj|solutionrelative:bai02_quanlykhoa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\packages.config",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\packages.config",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\packages.config",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-25T16:00:48.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmTimKiem.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmTimKiem.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmTimKiem.cs",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\frmTimKiem.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:59:40.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTimKiem.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmTimKiem.cs",
+              "ToolTip": "D:\\Users\\Ki_Hien_Tai\\LTWindows\\Tuan04_CSDL-20251225T125810Z-1-001\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmTimKiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:46:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmQuanLyKhoa.Designer.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLyKhoa.Designer.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmQuanLyKhoa.Designer.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLyKhoa.Designer.cs",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\frmQuanLyKhoa.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:36:35.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\App.config",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\App.config",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\App.config",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-25T15:35:40.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmQuanLySinhVien.Designer.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLySinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmQuanLySinhVien.Designer.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLySinhVien.Designer.cs",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\frmQuanLySinhVien.Designer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:28:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmQuanLyKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs [Design]",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:23:41.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentContextDB.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\Models\\StudentContextDB.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\Models\\StudentContextDB.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\Models\\StudentContextDB.cs",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\Models\\StudentContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:23:20.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmQuanLyKhoa.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\frmQuanLyKhoa.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwIkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:21:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmQuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAIwNYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:21:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQuanLySinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs [Design]",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\frmQuanLySinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:21:08.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "Bai03_TimKiemSinhVien\\Program.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai03_TimKiemSinhVien\\Program.cs",
+              "RelativeToolTip": "Bai03_TimKiemSinhVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:20:50.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\Program.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\Program.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\Program.cs",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:49:19.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\App.config",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\App.config",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\App.config",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-25T14:45:30.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmQuanLySinhVien.Designer.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLySinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\frmQuanLySinhVien.Designer.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLySinhVien.Designer.cs",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\frmQuanLySinhVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:26:20.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmQuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwL8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:26:12.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentContextDB.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\Models\\StudentContextDB.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\Models\\StudentContextDB.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\Models\\StudentContextDB.cs",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\Models\\StudentContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:23:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmQuanLyKhoa.Designer.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLyKhoa.Designer.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\frmQuanLyKhoa.Designer.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLyKhoa.Designer.cs",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\frmQuanLyKhoa.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAEwKoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:15:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQuanLyKhoa.cs",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:15:23.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmQuanLyKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs [Design]",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\frmQuanLyKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:13:10.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmQuanLySinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs",
+              "ToolTip": "C:\\code\\Github\\LapTrinhTrenMoiTruongWindows\\TH_LapTrinhWindows\\Tuan04_CSDL\\Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs [Design]",
+              "RelativeToolTip": "Bai02_QuanLyKhoa\\frmQuanLySinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:02:13.235Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
